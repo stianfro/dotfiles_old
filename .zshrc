@@ -2,6 +2,8 @@ export ZSH="/home/stian/.oh-my-zsh"
 ZSH_THEME="robbyrussell"
 plugins=(
   git
+  oc
+  kubectl
   zsh-syntax-highlighting
   zsh-autosuggestions
 )
